@@ -1,0 +1,6 @@
+c:\users\w401\documents\visual studio 2015\Projects\Bmi\Bmi\bin\Debug\Bmi.exe.config
+c:\users\w401\documents\visual studio 2015\Projects\Bmi\Bmi\obj\Debug\Bmi.csprojResolveAssemblyReference.cache
+c:\users\w401\documents\visual studio 2015\Projects\Bmi\Bmi\bin\Debug\Bmi.exe
+c:\users\w401\documents\visual studio 2015\Projects\Bmi\Bmi\bin\Debug\Bmi.pdb
+c:\users\w401\documents\visual studio 2015\Projects\Bmi\Bmi\obj\Debug\Bmi.exe
+c:\users\w401\documents\visual studio 2015\Projects\Bmi\Bmi\obj\Debug\Bmi.pdb
